@@ -15,6 +15,7 @@
   "dependencies": {
     "ejs": "^3.1.2",
     "express": "^4.17.1",
+    "heroku": "^7.41.1",
     "mongodb": "^3.5.7"
   },
   "devDependencies": {
